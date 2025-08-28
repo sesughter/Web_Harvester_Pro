@@ -42,3 +42,39 @@ Perfect for **competitor monitoring, e-commerce analytics, or personal portfolio
 ---
 
 ## 📂 Project Structure
+data-harvester-pro/
+│── dashboard.py # Streamlit dashboard
+│── run.py # Main scraping & cleaning script
+│── utils/ # Helper modules (scraper, cleaner, exporter)
+│── requirements.txt # Dependencies
+│── .gitignore # Ignore secrets and temp files
+│── images/ # Screenshots and visuals
+│── README.md # Project documentation
+
+
+---
+
+## 🎯 Use Cases
+- Competitor price monitoring  
+- E-commerce product catalog tracking  
+- Daily/weekly automated reporting  
+- Portfolio project showcasing Python & data skills  
+
+---
+
+## 💻 Getting Started
+1. Clone the repo:  
+```bash
+git clone https://github.com/yourusername/data-harvester-pro.git
+cd data-harvester-pro
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run locally:
+
+streamlit run dashboard.py
+
+
