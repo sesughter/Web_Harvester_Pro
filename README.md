@@ -23,7 +23,7 @@ Perfect for **competitor monitoring, e-commerce analytics, or personal portfolio
 ---
 
 ## 🖥️ Demo  
-![Dashboard Preview](images/dashboard_preview.png)  
+![Dashboard Preview](stream1.png)  
 
 - Filter by **availability**, **price range**, and **ratings**.  
 - Download cleaned datasets instantly.  
